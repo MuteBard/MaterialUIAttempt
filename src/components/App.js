@@ -5,7 +5,6 @@ import theme from './ui/Theme'
 
 function App() {
   return (
-
     //https://material-ui.com/customization/theming/
     <ThemeProvider theme={theme}>
       <Header/>

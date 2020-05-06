@@ -23,7 +23,13 @@ const ARCHORANGE = "#FFBA60"
        fontFamily: "Raleway",
        textTransform : "none", //disables all caps on buttons
        fontWeight : 700,
-       fontSize: "1rem",
+       fontSize: "1rem"
+     },
+     estimate: {
+       fontFamily : "Pacifico",
+       fontSize : "1rem",
+       textTransform : "none",
+       color : "#FFFFFF"
      }
    }
  })

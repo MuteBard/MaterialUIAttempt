@@ -16,5 +16,10 @@ const ARCHORANGE = "#FFBA60"
      secondary : {
        main : ARCHORANGE
      }
+   },
+   typography: {
+     h3 : {
+       fontWeight : 300
+     }
    }
  })

@@ -19,8 +19,11 @@ const ARCHORANGE = "#FFBA60"
      }
    },
    typography: {
-     h3 : {
-       fontWeight : 300
+     tab:{
+       fontFamily: "Raleway",
+       textTransform : "none", //disables all caps on buttons
+       fontWeight : 700,
+       fontSize: "1rem",
      }
    }
  })
